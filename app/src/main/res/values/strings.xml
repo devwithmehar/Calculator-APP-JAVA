@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="label_name">Name</string>
+    <string name="label_age">Age</string>
+    <string name="next_activity">Start Other Activity</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="label_result">Result</string>
+    <string name="btnSave">Save</string>
+    <string name="btnLoad">Load</string>
+    <string name="key_for_name">Name</string>
+    <string name="key_for_age">Age</string>
+</resources>
